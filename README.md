@@ -23,7 +23,7 @@ Le parcours complet de 6 modules destiné aux enseignants du primaire, couvrant 
 **Mise en œuvre inclusive**
 Recommandations pour adapter les séances afin que tous les élèves puissent y participer pleinement — en tenant compte des enjeux de représentation, des différences d'apprentissage et de la diversité culturelle.
 
-**Lettres d'information**
+**Bulletins d'information**
 Actualités du projet, nouvelles des partenaires et supports de diffusion.
 
 **Évaluation et réplicabilité**
