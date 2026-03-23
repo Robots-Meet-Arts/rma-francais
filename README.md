@@ -36,10 +36,10 @@ L'intégralité du livre de cours regroupant tous les contenus de formation en u
 
 ## Autres langues
 
-- English: [rma-english](https://github.com/robotsmeetarts/rma-english)
-- Dutch (Belgium): [rma-dutch](https://github.com/robotsmeetarts/rma-dutch)
-- Ελληνικά: [rma-ellinika](https://github.com/robotsmeetarts/rma-ellinika)
-- Català: [rma-catala](https://github.com/robotsmeetarts/rma-catala)
+- English: [rma-english](https://github.com/Robots-Meet-Arts/rma-english)
+- Dutch (Belgium): [rma-dutch](https://github.com/Robots-Meet-Arts/rma-dutch)
+- Ελληνικά: [rma-ellinika](https://github.com/Robots-Meet-Arts/rma-ellinika)
+- Català: [rma-catala](https://github.com/Robots-Meet-Arts/rma-catala)
 
 ---
 
