@@ -26,11 +26,11 @@ Recommandations pour adapter les séances afin que tous les élèves puissent y 
 **[Lettres d'information](https://github.com/Robots-Meet-Arts/rma-francais/tree/main/4.Bulletins_Info)**
 Actualités du projet, nouvelles des partenaires et supports de diffusion.
 
-**Bulletins d'information**
-Actualités du projet, nouvelles des partenaires et supports de diffusion.
+**[Bonnes pratiques](https://github.com/Robots-Meet-Arts/rma-francais/tree/main/5.Bonnes_Pratiques)**
+Rapport de bonnes pratiques basé sur l'expérience et les résultats du projet.
 
-**Évaluation et réplicabilité**
-Bonnes pratiques, rapports d'étonnement et d'implémentation pour inspirer de futures pratiques.
+**[Livre de cours complet](RMA_LessonBook_FR.pdf)**
+L'intégralité du livre de cours regroupant tous les contenus de formation en un seul document.
 
 ---
 
