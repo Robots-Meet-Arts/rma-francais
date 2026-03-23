@@ -14,19 +14,19 @@ Robots Meet Arts propose d'intégrer des pratiques de pensée computationnelles 
 
 ## Contenu
 
-**[Modules de formation](https://github.com/Robots-Meet-Arts/rma-francais/tree/main/1.Modules_Formation)**
+**[Modules de formation](1.Modules_Formation/)**
 Le parcours complet de 6 modules destiné aux enseignants du primaire, couvrant les approches pédagogiques, les compétences techniques et les pratiques inclusives.
 
-**[Fiches pédagogiques](https://github.com/Robots-Meet-Arts/rma-francais/tree/main/2.Plans_de_Cours_FR)**
+**[Fiches pédagogiques](2.Plans_de_Cours_FR/)**
 29 activités clé en main : 8 séances d'introduction et 21 séances disciplinaires réparties dans 7 disciplines relevant des humanités.
 
-**[Mise en œuvre inclusive](https://github.com/Robots-Meet-Arts/rma-francais/tree/main/3.Inclusion)**
+**[Mise en œuvre inclusive](3.Inclusion/)**
 Recommandations pour adapter les séances afin que tous les élèves puissent y participer pleinement — en tenant compte du genre, des différences d'apprentissage et de la diversité culturelle.
 
-**[Lettres d'information](https://github.com/Robots-Meet-Arts/rma-francais/tree/main/4.Bulletins_Info)**
+**[Lettres d'information](4.Bulletins_Info/)**
 Actualités du projet, nouvelles des partenaires et supports de diffusion.
 
-**[Bonnes pratiques](https://github.com/Robots-Meet-Arts/rma-francais/tree/main/5.Bonnes_Pratiques)**
+**[Bonnes pratiques](5.Bonnes_Pratiques/)**
 Rapport de bonnes pratiques basé sur l'expérience et les résultats du projet.
 
 **[Livre de cours complet](RMA_LessonBook_FR.pdf)**
